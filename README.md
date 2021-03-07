@@ -1,4 +1,5 @@
 Demos:
-##1. Amplitude
+
+## Amplitude
 
 ### [Simple Beat Detection](https://loud.software/music_visualization/source/OkeBeatDetectionAmplitude/)
